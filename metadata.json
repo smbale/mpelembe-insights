@@ -1,0 +1,5 @@
+{
+  "name": "Mpelembe Insights",
+  "description": "An advanced article analysis tool specifically designed for evaluating content from Mpelembe Network, providing deep summaries, sentiment analysis, and key entity extraction using Gemini AI.",
+  "requestFramePermissions": []
+}
